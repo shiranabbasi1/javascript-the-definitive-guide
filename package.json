@@ -1,0 +1,12 @@
+{
+  "name": "JsCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ind": "node index.js",
+    "freq": "node charFreq.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
